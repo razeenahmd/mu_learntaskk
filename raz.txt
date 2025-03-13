@@ -1,0 +1,4 @@
+b=int(input())
+s=int(input())
+area=(b/2*s)
+print(area)
